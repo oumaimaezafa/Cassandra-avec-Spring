@@ -6,7 +6,7 @@ Ce projet implémente une application Spring Boot qui interagit avec une base de
 
 ### Création d'un produit
 ![Création d'un produit](images/create.png)
-Cette image montre probablement l'interface utilisateur ou une illustration liée à la fonctionnalité de création d'un produit dans l'application. Il pourrait s'agir d'un formulaire de création ou de l'ajout d'un produit dans la base de données Cassandra.
+Cette image montre  l'interface utilisateur ou une illustration liée à la fonctionnalité de création d'un produit dans l'application. Il pourrait s'agir d'un formulaire de création ou de l'ajout d'un produit dans la base de données Cassandra.
 
 ### Récupération des produits
 ![Récupération des produits](images/get.png)
@@ -22,7 +22,7 @@ Swagger est une interface populaire utilisée pour tester les API REST. Cette im
 
 ### Interaction avec Cassandra via cqlsh
 ![Interaction avec Cassandra via cqlsh](images/sqlsh.png)
-Cette image pourrait illustrer l'utilisation de l'outil en ligne de commande `cqlsh` de Cassandra pour exécuter des requêtes CQL (Cassandra Query Language). Elle montre  l'exécution de commandes pour interagir directement avec la base de données Cassandra, comme des insertions ou des sélections de produits.
+Cette image  illustre l'utilisation de l'outil en ligne de commande `cqlsh` de Cassandra pour exécuter des requêtes CQL (Cassandra Query Language). Elle montre  l'exécution de commandes pour interagir directement avec la base de données Cassandra, comme des insertions ou des sélections de produits.
 
 ## Résumé des Concepts et Outils Utilisés
 
